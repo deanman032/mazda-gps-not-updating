@@ -3,7 +3,7 @@ How to Fix Mazda GPS Not Updating Issues? 🗺️🔧
 
 Driving confidently depends on a reliable navigation system. But what if your **Mazda GPS is not updating**? 😟 You're not alone. Many drivers experience **Mazda map update problems**, from SD card issues to update errors and connection glitches. Whether you're dealing with **Mazda GPS update error** messages or the **Mazda navigation not updating**, this guide will help you fix the problem quickly and get back on the road! 🚦💨
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
