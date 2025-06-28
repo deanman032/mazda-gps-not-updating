@@ -7,8 +7,7 @@ Driving confidently depends on a reliable navigation system. But what if your **
    :alt: My Project Logo
    :width: 400px
    :align: center
-     :target: https://navisolve.com/
-
+   :target: https://navisolve.com/
 
 
 Why Your Mazda GPS Needs Regular Updates 🧭
